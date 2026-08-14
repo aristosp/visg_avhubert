@@ -18,7 +18,7 @@ If you find VisG AV-HuBERT useful in your research, please use the following Bib
 author="Papadopoulos, Aristeidis and Jain, Rishabh and Harte, Naomi",
 title="VisG AV-HuBERT: Viseme-Guided AV-HuBERT",
 booktitle="Pattern Recognition",
-year="2026",
+year="2027",
 publisher="Springer Nature Switzerland",
 pages="667--682",
 }
