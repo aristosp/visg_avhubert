@@ -10,24 +10,20 @@
 ![example](example.png)
 VisG AV-HuBERT is a multitask extension of AV-HuBERT designed to better leverage the visual modality by incorporating viseme classification as an auxiliary objective. 
 Compared to AV-HuBERT, our model achieves comparable or improved performance—particularly under challenging noise conditions (-10 dB, -5 dB). Find the paper [here](https://arxiv.org/abs/2604.00982). We are very glad to announce that the paper has been accepted for publication at the 28th International Conference on Pattern Recogniton (ICPR 2026).
-<!--
-If you find AV-HuBERT useful in your research, please use the following BibTeX entry for citation.
+
+If you find VisG AV-HuBERT useful in your research, please use the following BibTeX entry for citation.
 
 ```BibTeX
-@article{shi2022avhubert,
-    author  = {Bowen Shi and Wei-Ning Hsu and Kushal Lakhotia and Abdelrahman Mohamed},
-    title = {Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction},
-    journal = {arXiv preprint arXiv:2201.02184}
-    year = {2022}
-}
-
-@article{shi2022avsr,
-    author  = {Bowen Shi and Wei-Ning Hsu and Abdelrahman Mohamed},
-    title = {Robust Self-Supervised Audio-Visual Speech Recognition},
-    journal = {arXiv preprint arXiv:2201.01763}
-    year = {2022}
+@InProceedings{10.1007/978-3-032-31335-5_45,
+author="Papadopoulos, Aristeidis and Jain, Rishabh and Harte, Naomi",
+title="VisG AV-HuBERT: Viseme-Guided AV-HuBERT",
+booktitle="Pattern Recognition",
+year="2027",
+publisher="Springer Nature Switzerland",
+pages="667--682",
 }
 ```
+<!--
 
 ## License
 
